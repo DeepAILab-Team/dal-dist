@@ -6,7 +6,7 @@ attached to a [release](../../releases).
 ## Install
 
 ```bash
-npm install -g https://github.com/dal-cli/dal-dist/releases/latest/download/deepailab-dal.tgz
+npm install -g https://github.com/DeepAILab-Team/dal-dist/releases/latest/download/deepailab-dal.tgz
 dal
 ```
 
@@ -30,5 +30,5 @@ rewrites your global install without you asking.
 Each release also carries a versioned tarball. To install a specific one:
 
 ```bash
-npm install -g https://github.com/dal-cli/dal-dist/releases/download/v0.81.5/deepailab-dal-0.81.5.tgz
+npm install -g https://github.com/DeepAILab-Team/dal-dist/releases/download/v0.81.5/deepailab-dal-0.81.5.tgz
 ```
