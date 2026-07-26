@@ -1,0 +1,5 @@
+# Artifacts are attached to releases, never committed. Nothing built or vendored
+# belongs in this repository's history.
+*
+!.gitignore
+!README.md
