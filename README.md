@@ -30,5 +30,5 @@ rewrites your global install without you asking.
 Each release also carries a versioned tarball. To install a specific one:
 
 ```bash
-npm install -g https://github.com/DeepAILab-Team/dal-dist/releases/download/v0.1.10/deepailab-dal-0.1.10.tgz
+npm install -g https://github.com/DeepAILab-Team/dal-dist/releases/download/v1.0.0/deepailab-dal-1.0.0.tgz
 ```
